@@ -1,7 +1,5 @@
 <h1>Update a file through a Python algorithm</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 In this activity lab, I will demonstrate my experience using Python to develop algorithms that involve opening files and parsing their contents.
 <br />
